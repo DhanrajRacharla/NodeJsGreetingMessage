@@ -1,1 +1,2 @@
-module.exports = 'Have a Great Day'
+const message = 'Have a Great Day'
+module.exports = message
